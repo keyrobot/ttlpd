@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on TTLPD</title><link>https://ttlpd.com/categories/</link><description>Recent content in Categories on TTLPD</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 29 Oct 2024 03:48:11 +0000</lastBuildDate><atom:link href="https://ttlpd.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Life</title><link>https://ttlpd.com/categories/life/</link><pubDate>Fri, 20 Sep 2024 12:41:10 +0000</pubDate><guid>https://ttlpd.com/categories/life/</guid><description/></item><item><title>New</title><link>https://ttlpd.com/categories/new/</link><pubDate>Fri, 20 Sep 2024 12:27:44 +0000</pubDate><guid>https://ttlpd.com/categories/new/</guid><description/></item><item><title>Health</title><link>https://ttlpd.com/categories/health/</link><pubDate>Fri, 20 Sep 2024 12:12:27 +0000</pubDate><guid>https://ttlpd.com/categories/health/</guid><description/></item><item><title>Bs-Sport</title><link>https://ttlpd.com/categories/bs-sport/</link><pubDate>Fri, 20 Sep 2024 12:01:39 +0000</pubDate><guid>https://ttlpd.com/categories/bs-sport/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on TTLPD</title>
+    <link>https://ttlpd.com/categories/</link>
+    <description>Recent content in Categories on TTLPD</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2024 03:48:11 +0000</lastBuildDate>
+    <atom:link href="https://ttlpd.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life</title>
+      <link>https://ttlpd.com/categories/life/</link>
+      <pubDate>Fri, 20 Sep 2024 12:41:10 +0000</pubDate>
+      <guid>https://ttlpd.com/categories/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New</title>
+      <link>https://ttlpd.com/categories/new/</link>
+      <pubDate>Fri, 20 Sep 2024 12:27:44 +0000</pubDate>
+      <guid>https://ttlpd.com/categories/new/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>https://ttlpd.com/categories/health/</link>
+      <pubDate>Fri, 20 Sep 2024 12:12:27 +0000</pubDate>
+      <guid>https://ttlpd.com/categories/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bs-Sport</title>
+      <link>https://ttlpd.com/categories/bs-sport/</link>
+      <pubDate>Fri, 20 Sep 2024 12:01:39 +0000</pubDate>
+      <guid>https://ttlpd.com/categories/bs-sport/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
